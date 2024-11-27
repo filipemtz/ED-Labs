@@ -1,5 +1,5 @@
 
-# Files de Prioridade
+# Filas de Prioridade
 
 ## Atividade 1: Fila de Prioridade usando Vetores
 
