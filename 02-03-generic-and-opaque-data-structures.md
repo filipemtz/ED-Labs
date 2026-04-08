@@ -9,7 +9,7 @@ Neste laboratório, vamos criar uma mini-loja virtual usando o conceito de tipos
 
 * Tornar o tipo Vector genérico para que ele seja capaz de armazenar qualquer tipo de dado.
 
-Para cada atividade, envie a resposta no sistema [Testr](http://200.137.66.73:8000/).
+Para cada atividade, envie a resposta no sistema [Testr](http://200.137.66.73:8080/).
 
 ## Revisão: Tipos Opacos
 
