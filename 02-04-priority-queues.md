@@ -43,7 +43,7 @@ typedef struct Heap Heap;
 Heap *heap_construct(cmp_fn cmp);
 
 // Libera memória do heap
-void heap_destroy(Heap *h);
+void heap_destroy(Heap *h, void (*free_item)(void *));
 
 // Insere um elemento no heap
 void heap_push(Heap *h, data_type value);
